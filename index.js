@@ -3,9 +3,9 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Willkommen zum Versionsverwaltungssystem!');
+  res.send('Welcome to the version control system!');
 });
 
 app.listen(port, () => {
-  console.log(`Server läuft auf http://localhost:${port}`);
+  console.log(`Server is running on http://localhost:${port}`);
 });
