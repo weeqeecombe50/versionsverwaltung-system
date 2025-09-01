@@ -1,6 +1,6 @@
 {
   "name": "versionsverwaltung-system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ein einfaches Versionsverwaltungssystem",
   "main": "index.js",
   "scripts": {
