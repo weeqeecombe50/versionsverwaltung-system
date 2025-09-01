@@ -1,0 +1,14 @@
+{
+  "name": "versionsverwaltung-system",
+  "version": "1.0.0",
+  "description": "Ein einfaches Versionsverwaltungssystem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Ihr Name",
+  "license": "MIT"
+}
